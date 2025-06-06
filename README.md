@@ -43,3 +43,4 @@ Nostra is a simple and elegant e-commerce website built using HTML, CSS, and Jav
     Icons by FontAwesome
 
     Inspiration from popular e-commerce sites
+To view : https://riteshragav.github.io/Nostra/
